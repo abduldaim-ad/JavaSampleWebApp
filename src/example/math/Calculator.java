@@ -1,5 +1,5 @@
 package math;
-// DevOps Semester Project
+// DevOps Semester Project MIS
 public class Calculator {
   
  public double add(double a, double b) {
